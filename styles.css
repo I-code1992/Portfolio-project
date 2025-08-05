@@ -145,10 +145,11 @@ font-family: var(--default-font-family);
   padding-bottom: 25px;
 }
 
-.info-icon{
+footer .info-icon a {
     color: var(--primary-color);
-    padding-bottom: 50px;
-  
+    padding: 10px 14px;
+  border-radius: 50%;
+  text-decoration: none;
 }
 
 .work-container{
@@ -170,4 +171,14 @@ padding-left: 30px;
 
 .work-image{
     margin: 70px 90px 20px 90px;
+}
+
+
+.source{
+    text-align: center;
+    padding-bottom: 50px;
+    font-family: var(--default-font-family);
+  font-size: 12px;
+    font-style: normal;
+  color: #272142;
 }
