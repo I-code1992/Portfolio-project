@@ -5,6 +5,7 @@
     --default-font-family:"Poppins", sans-serif;
 }
 
+
 h1{
   font-family:var(--heading-font-family);
   font-weight: 700;
@@ -44,6 +45,7 @@ p{
     padding: 110px 0px;
 
 }
+
 
 .btn-branding{
     background-color: var(--primary-color);
@@ -151,6 +153,8 @@ footer .info-icon a {
   border-radius: 50%;
   text-decoration: none;
 }
+
+
 
 .work-container{
     text-align: start;
