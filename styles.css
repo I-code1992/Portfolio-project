@@ -173,6 +173,10 @@ padding-left: 30px;
     margin: 70px 90px 20px 90px;
 }
 
+.work-image h2{
+    font-size: 25px;
+}
+
 
 .source{
     text-align: center;
@@ -182,3 +186,25 @@ padding-left: 30px;
     font-style: normal;
   color: #272142;
 }
+
+
+@media (max-width:950px){
+    .source {
+        padding-bottom: 190px;
+    }
+
+    .work-container h1{
+        font-size: 25px;
+        padding-left: 0px;
+        margin-top: 0px;
+        margin-right: 10px;
+
+    }
+
+.work-image h2{
+    font-size: 15px;
+}
+
+}
+
+
